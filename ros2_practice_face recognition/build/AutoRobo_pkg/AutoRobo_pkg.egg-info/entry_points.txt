@@ -1,0 +1,3 @@
+[console_scripts]
+image_subscriber = AutoRobo_pkg.image_subscriber:main
+
